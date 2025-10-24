@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Bye History",
+  "version": "1.0.0",
+  "description": "When you sign out of Chrome or the next time you open it, your browsing history will be reliably cleared.",
+  "permissions": [
+    "history",
+    "browsingData",
+    "identity",
+    "idle",
+    "alarms",
+    "sessions",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Bye History"
+  }
+}
+
