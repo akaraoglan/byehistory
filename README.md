@@ -32,6 +32,13 @@ manifest.json
 
 background.js
 
+## Privacy Policy
+
+ByeHistory does not collect, store, or share any personal data.  
+All browsing data deletion happens locally on the user's device using Chrome's built-in `browsingData` API.  
+No information is sent or stored on any external servers.
+
+
 # Çıkışta Geçmişi Sil - Chrome Uzantısı
 
 Bu uzantı, Chrome oturumundan çıkış yaptığınızda veya tarayıcı yeniden açıldığında geçmiş ve ilgili verileri otomatik olarak temizlemeye çalışır. Ayrıca cihaz kilitlendiğinde ve periyodik aralıklarla da temizlik tetiklenir.
@@ -55,3 +62,8 @@ Bu uzantı, Chrome oturumundan çıkış yaptığınızda veya tarayıcı yenide
 - `manifest.json`
 - `background.js`
 
+## Gizlilik Politikası
+
+ByeHistory hiçbir kişisel veriyi toplamaz, saklamaz veya paylaşmaz.
+Tüm gezinme verilerinin silinmesi, Chrome’un yerleşik browsingData API’si kullanılarak yerel olarak kullanıcının cihazında gerçekleşir.
+Herhangi bir bilgi harici sunuculara gönderilmez veya depolanmaz.
