@@ -39,7 +39,7 @@ All browsing data deletion happens locally on the user's device using Chrome's b
 No information is sent or stored on any external servers.
 
 
-# Çıkışta Geçmişi Sil - Chrome Uzantısı
+# Bye History - Chrome Uzantısı
 
 Bu uzantı, Chrome oturumundan çıkış yaptığınızda veya tarayıcı yeniden açıldığında geçmiş ve ilgili verileri otomatik olarak temizlemeye çalışır. Ayrıca cihaz kilitlendiğinde ve periyodik aralıklarla da temizlik tetiklenir.
 
