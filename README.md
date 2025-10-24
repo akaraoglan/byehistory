@@ -1,4 +1,4 @@
-Clear on Exit - Chrome Extension
+# Clear on Exit - Chrome Extension
 
 This extension automatically clears your browsing history and related data when you sign out of Chrome or restart the browser. It also triggers cleanup when the device is locked or at regular intervals.
 
