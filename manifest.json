@@ -9,7 +9,6 @@
     "identity",
     "idle",
     "alarms",
-    "sessions",
     "storage"
   ],
   "background": {
@@ -20,4 +19,3 @@
     "default_title": "Bye History"
   }
 }
-
